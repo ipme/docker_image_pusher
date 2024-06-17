@@ -1,5 +1,13 @@
-nginx
+whyour/qinglong
+halohub/halo
+qdtoday/qd
+supermanito/arcadia
+### docker upgrade
+containrrr/watchtower
+###
+redis
+postgres
 #支持私库
-xhofe/alist:latest
+xhofe/alist
 #支持指定架构
-#--platform=linux/arm64 xiaoyaliu/alist
+#--platform=linux/arm64
