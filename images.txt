@@ -1,7 +1,7 @@
 whyour/qinglong
-halohub/halo
+halohub/halo:2.16
 qdtoday/qd
-supermanito/arcadia
+supermanito/arcadia:beta
 ### docker upgrade
 containrrr/watchtower
 ###
